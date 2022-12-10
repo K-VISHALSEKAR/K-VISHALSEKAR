@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @K-VISHALSEKAR
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning SAP
+- 🏆 Certified as SAP-ABAP consultant
 - 📫 How to reach me vishalvishal4442@gmail.com
+- 📫 How to reach me linkedin : www.linkedin.com/in/vishalsekar-k
 
 <!---
 K-VISHALSEKAR/K-VISHALSEKAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
